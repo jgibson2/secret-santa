@@ -1,0 +1,6 @@
+networkx
+pytest
+loguru
+twilio
+flask
+python-dotenv
